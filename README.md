@@ -1,9 +1,8 @@
 # Personal Learning & Development Project
 
 ## Learning Goal
-*Define your primary learning objective here. What skill, technology, or concept do you want to master?*
-
-Example: "Master React hooks and state management patterns for building scalable single-page applications."
+SQL Query Expert
+Bilingual spwaker
 
 ---
 
