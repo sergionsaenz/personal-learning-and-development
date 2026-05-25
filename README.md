@@ -2,7 +2,7 @@
 
 ## Learning Goal
 SQL Query Expert
-Bilingual spwaker
+Bilingual speaker
 
 ---
 
